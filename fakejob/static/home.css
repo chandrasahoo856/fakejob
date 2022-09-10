@@ -1,0 +1,14 @@
+/* .container+p{
+color:red;
+} */
+body{
+    background-image:url(https://img.freepik.com/free-vector/abstract-banner-background-with-red-shapes_1361-3348.jpg?w=2000);
+}
+.jumbotron{
+    margin-top: 150px;
+    background-color: aquamarine;
+}
+.btn{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
